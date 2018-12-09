@@ -1,0 +1,8 @@
+/home/paperspace/Darshan/darknet/data/valid/license_plate2.jpg
+/home/paperspace/Darshan/darknet/data/valid/license_plate_car3.jpg
+/home/paperspace/Darshan/darknet/data/valid/564.JPEG
+/home/paperspace/Darshan/darknet/data/valid/331.JPEG
+/home/paperspace/Darshan/darknet/data/valid/89.JPEG
+/home/paperspace/Darshan/darknet/data/valid/license_plate.jpeg
+/home/paperspace/Darshan/darknet/data/valid/license_plate_car2.jpeg
+/home/paperspace/Darshan/darknet/data/valid/licence_plate_car.png

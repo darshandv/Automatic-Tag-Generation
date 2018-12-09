@@ -1,0 +1,64 @@
+{
+    "tags": [
+        {
+            "video_key_tags": [
+                "toothbrush",
+                "diningtable",
+                "remote",
+                "cell phone",
+                "tvmonitor",
+                "apple",
+                "clock",
+                "laptop",
+                "knife",
+                "chair",
+                "bowl",
+                "bottle",
+                "backpack",
+                "cup",
+                "donut",
+                "vase",
+                "tie",
+                "person",
+                "spoon",
+                "book",
+                "pottedplant"
+            ]
+        },
+        [
+            {
+                "audio_key_tags": [
+                    "prevent",
+                    "party",
+                    "mode",
+                    "debt",
+                    "gesture",
+                    "oneplus",
+                    "help",
+                    "rival",
+                    "pixel",
+                    "student",
+                    "portrait",
+                    "friend",
+                    "slider",
+                    "use",
+                    "screen",
+                    "reading",
+                    "camera",
+                    "ready",
+                    "minute",
+                    "right",
+                    "straighten",
+                    "9 a.m.",
+                    "commando",
+                    "last minute",
+                    "the oneplus 5",
+                    "10%"
+                ]
+            },
+            {
+                "explicit_content_score": 0
+            }
+        ]
+    ]
+}
